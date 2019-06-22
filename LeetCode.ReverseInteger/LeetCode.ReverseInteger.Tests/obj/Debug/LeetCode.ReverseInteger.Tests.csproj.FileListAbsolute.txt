@@ -1,0 +1,17 @@
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\obj\Debug\LeetCode.ReverseInteger.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\obj\Debug\LeetCode.ReverseInteger.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\LeetCode.ReverseInteger.Tests.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\LeetCode.ReverseInteger.Tests.pdb
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\LeetCode.ReverseInteger.exe
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\LeetCode.ReverseInteger.pdb
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\LeetCode.ReverseInteger.exe.config
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\obj\Debug\LeetCode.ReverseInteger.Tests.csproj.CopyComplete
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\obj\Debug\LeetCode.ReverseInteger.Tests.dll
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger.Tests\obj\Debug\LeetCode.ReverseInteger.Tests.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\bin\Debug\LeetCode.ReverseInteger.exe.config
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\bin\Debug\LeetCode.ReverseInteger.exe
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\bin\Debug\LeetCode.ReverseInteger.pdb
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.csprojAssemblyReference.cache
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.exe
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode_TwoSum\LeetCode.ReverseInteger\LeetCode.ReverseInteger\obj\Debug\LeetCode.ReverseInteger.pdb
